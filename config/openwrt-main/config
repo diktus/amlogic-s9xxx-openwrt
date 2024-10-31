@@ -6326,7 +6326,7 @@ CONFIG_OPENCONNECT_GNUTLS=y
 CONFIG_PACKAGE_vpnc-scripts=y
 # CONFIG_PACKAGE_wgsd-client is not set
 # CONFIG_PACKAGE_wgsd-coredns is not set
-# CONFIG_PACKAGE_wireguard-tools is not set
+CONFIG_PACKAGE_wireguard-tools=y
 # CONFIG_PACKAGE_xl2tpd is not set
 # CONFIG_PACKAGE_zerotier is not set
 # end of VPN
