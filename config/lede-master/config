@@ -6124,7 +6124,7 @@ CONFIG_OPENVPN_openssl_ENABLE_SMALL=y
 # CONFIG_PACKAGE_uanytun-sslcrypt is not set
 # CONFIG_PACKAGE_vpnc is not set
 CONFIG_PACKAGE_vpnc-scripts=y
-# CONFIG_PACKAGE_wireguard-tools is not set
+CONFIG_PACKAGE_wireguard-tools=y
 # CONFIG_PACKAGE_xl2tpd is not set
 CONFIG_PACKAGE_zerotier=y
 
